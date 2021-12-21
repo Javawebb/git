@@ -4,6 +4,8 @@
     box-sizing: border-box;
     color: inherit;
     font-family: sans-serif;
+    list-style: none;
+    text-decoration: none;
 }
 .container {
     width: 80%;
